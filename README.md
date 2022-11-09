@@ -1,1 +1,1 @@
-**This a Picgo repostory**
+**This a Picgo repository**
